@@ -72,8 +72,8 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo and cd into it
 	```
-	git clone https://github.com/adeelsarim/social_networks
-	cd social_networks
+	git clone https://github.com/devfield0/social-network-api
+	cd social-network-api
 	```
 2. Install the gems
 	`bundle install`
